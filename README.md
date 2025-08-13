@@ -1,18 +1,13 @@
 ### Hi there 👋
 
+My name is Gabriel Fioreze.
+
+🎓 I studied Software Engineering at University of Salford  
+💻 Interested in web development  
+🔭 I’m currently working on a Next.js 13 portfolio while learning it  
+
+**Useful links:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-fioreze-319472194)  
+📄 [CV](your-cv-link-here)  
+
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gfioreze&theme=tokyonight&layout=compact)
-
-<!--
-**gfioreze/gfioreze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
