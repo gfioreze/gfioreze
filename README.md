@@ -12,7 +12,7 @@ My name is Gabriel Fioreze.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-fioreze-319472194)
 
-📄 [CV]()
+📄 [CV](https://github.com/gfioreze/cv/blob/main/cv.pdf)
 
 ---
 
