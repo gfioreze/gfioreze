@@ -1,11 +1,11 @@
 ## Hi there,
 ### my name is Gabriel Fioreze.
 
-🎓 I studied Software Engineering at University of Salford
+🎓 Graduate Software Engineer (University of Salford)
 
-💻 Interested in web development  
+💻 Web developer
 
-🔭 I’m currently working on a Next.js 13 portfolio while learning it
+🔭 Learning Next.js
 
 
 ### Useful links:
