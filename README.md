@@ -5,6 +5,8 @@
 
 💻 I specialize in full-stack web development.
 
+<hr>
+
 ### 🚀 Tech Stack: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="41" /> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="41" /> &nbsp;&nbsp;&nbsp;
