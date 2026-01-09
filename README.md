@@ -1,5 +1,7 @@
 ## Hi there,
+
 <br>
+
 ### My name is Gabriel Fioreze.
 
 🎓 I am a graduate software engineer from the University of Salford.
