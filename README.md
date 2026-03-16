@@ -13,6 +13,7 @@
 ### 🚀 Tech Stack: <br>
 <div style="display: inline-block; background-color: white; padding: 5px; border-radius: 4px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="41" /> &nbsp;&nbsp;&nbsp;
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/symfony-icon.svg](https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" width="41" /> &nbsp;&nbsp;&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/symfony-icon.svg" width="41" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="41" /> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="41" /> &nbsp;&nbsp;&nbsp;
